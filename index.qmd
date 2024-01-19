@@ -1,11 +1,159 @@
 ---
-title: "2024-intensivo-alejandra-web"
+title: ""
+subtitle: ""
 ---
 
-This is a Quarto website.
+![](images/Captura%20de%20pantalla%202024-01-19%20a%20las%2014.35.39.png){fig-align="center"}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Propuesta de formación
 
-```{r}
-1 + 1
-```
+![](images/IMG_6445.png){width="178"}
+
+[***Profesor Alberto Bernat***](https://www.linkedin.com/in/albertobernat/) <br> Coordinador del Máster en Dirección y Planificación Financiera <br> Universidad Europea Miguel de Cervantes <br> Economista (Colegiado nº. 3.685) <br> Asesor Financiero (EFA nº. 14.672)
+
+### **Presentación**
+
+Querida Alejandra,
+
+Es un placer para mí dirigirme a ti y expresarte mi entusiasmo por la oportunidad de trabajar juntos en la preparación para la certificación que te propones obtener en la convocatoria de marzo. Estoy convencido de que nuestra colaboración será exitosa y lograremos alcanzar tus metas.
+
+He diseñado detenidamente una propuesta formativa basada en nuestra reciente conversación telefónica y en toda la información que compartiste conmigo. Durante las próximas nueve semanas, tenemos un trabajo importante por delante, pero estoy seguro de que será una experiencia agradable y muy provechosa. Hemos trazado una hoja de ruta precisa que nos guiará en cada paso del camino.
+
+Para asegurarnos de que esta preparación sea lo más efectiva posible, es crucial que realices una prueba de nivel antes de nuestra primera sesión. He preparado un formulario en Google Forms que podrás encontrar en el siguiente enlace. Tienes todo el fin de semana para completarlo, y encontrarás indicaciones detalladas en el propio test. Este paso inicial nos ayudará a personalizar tu plan de estudio y a adaptar nuestro enfoque a tus necesidades específicas.
+
+[Enlace al formulario de prueba de nivel](https://forms.gle/VZwFNXBSyCqHEnfZ7)
+
+En cuanto a nuestras reuniones, inicialmente he programado las sesiones para los jueves, como podrás observar en la tabla adjunta. Sin embargo, estos horarios y fechas son negociables en caso de que no se ajusten perfectamente a tu disponibilidad. Mi objetivo es optimizar tu preparación, por lo que estoy abierto a ajustarlos según tus necesidades.
+
+### **Propuesta de las sesiones**
+
+| **Semana** | **Día**           | **Hora**      | **Sesión**                                               |
+|-----------|---------------------|---------------------|---------------------|
+| 1          | Jueves 25 enero   | 19:00 - 20:30 | Sesión 1: Instrumentos y mercados financieros            |
+| 2          | Jueves 1 febrero  | 19:00 - 20:30 | Sesión 2: Fondos y sociedades de inversión mobiliaria    |
+| 3          | Jueves 8 febrero  | 19:00 - 20:30 | Sesión 3: Gestión de carteras                            |
+| 4          | Jueves 15 febrero | 19:00 - 20:30 | Sesión 4: Pensiones y planificación de jubilación        |
+| 5          | Jueves 22 febrero | 19:00 - 20:30 | Sesión 5: Inversión inmobiliaria, crédito y financiación |
+| 6          | Jueves 29 febrero | 19:00 - 20:30 | Sesión 6: Fiscalidad I                                   |
+| 7          | Jueves 7 marzo    | 19:00 - 20:30 | Sesión 7: Fiscalidad II                                  |
+| 8          | Jueves 14 marzo   | 19:00 - 20:30 | Sesión 8: Examen final (corrección y dudas)              |
+
+Si hay algún ajuste que necesites o alguna pregunta que desees plantear, no dudes en comunicármelo.
+
+### **Forma de pago**
+
+Quiero proporcionarte información detallada sobre el proceso de pago para asegurar una colaboración sin contratiempos. Como discutimos en nuestra conversación anterior, el precio total del programa es de 800 €, y es necesario completar el pago antes de continuar.
+
+Puedes realizar el pago mediante una transferencia bancaria a la siguiente cuenta:
+
+**Número de Cuenta:**
+ES69 0073 0100 5405 4843 6053
+
+Si lo prefieres, también puedes efectuar el pago a través de Bizum utilizando mi número de teléfono:
+
+**Número de Teléfono:**
+63333 1677
+
+Una vez que reciba la confirmación del pago, procederé a habilitar tu acceso a la plataforma de estudio y proporcionaré los materiales necesarios. Este acceso incluirá la corrección de tu prueba de nivel. Te recomendaría completar esta prueba a lo largo del fin de semana para que puedas comenzar con el programa a partir de la próxima semana. Esta prueba es tipo test y consta de 20 preguntas que te brindarán un punto de referencia inicial sin necesidad de ningún estudio previo por tu parte. Su duración es de 50 minutos.
+
+Te sugiero realizar el test con papel, bolígrafo y calculadora, sin consultar apuntes ni acceder a Internet. El objetivo es obtener una imagen precisa y fiel de tus conocimientos en el momento actual, sin más.
+
+Si tienes alguna pregunta o inquietud sobre el examen, anótala para que podamos abordarla en un encuentro previo a la primera sesión. Nos esforzaremos por organizar este primer encuentro tan pronto como tengas los resultados disponibles.
+
+Estoy a tu disposición para cualquier pregunta adicional o aclaración.
+
+Atentamente,
+
+Alberto
+
+## **1a Convocatoria 2024 examen EFA**
+
+| La 1ª convocatoria del año 2024, para la realización de los exámenes para obtener la certificación [**EFPA *European Financial Advisor* (EFA)**](https://www.efpa.es/examenes-certificacion-efa) -ya sea el examen completo o el de [**Nivel II**](https://www.efpa.es/examenes-certificacion-efa-nivel-II) - será **el 22 DE MARZO** **del 2024.**
+| 
+| **DETALLE NIVEL EFA**
+| 
+| **Fecha límite de inscripción:** **PENDIENTE**
+| **MODALIDAD ONLINE:**
+| **Horario:** **PENDIENTE**
+| **Convocatoria: 10 minutos antes del inicio del examen**
+| **AFORO LIMITADO**
+| 
+| **IMPRESCINDIBLE LEER:**
+| [Consulta las novedades fiscales para el Módulo de Fiscalidad](https://www.efpa.es/actualidad/14/noticias-efpa/3025/novedades-fiscales-exigibles-en-las-diferentes-certificaciones-de-efpa-espana-eip-efa-y-efp-a-partir-del-mes-de-junio-2023/)
+| [Normas e instrucciones para los exámenes OnLine](https://www.efpa.es/descargas/NormasExamenesOnLine.pdf)
+| [GUÍA DE CONTENIDOS](https://www.efpa.es/descargas/documentos/GUIA_DE_CERTIFICACION_EFA.pdf)
+|  
+| 
+
+[![](https://www.efpa.es/descargas/boton-videotutorial-examenesonline.jpg)](https://www.efpa.es/videotutorial-examen-online)
+
+### ***Examen para obtener la certificación (EFA)***
+
+| 
+| Certifica la idoneidad profesional para ejercer tareas de consejo, gestión y asesoría financiera a particulares en banca personal o privada, servicios financieros orientados al cliente individual y cualquier función profesional bancaria, de seguros o independiente, que implique la oferta de un servicio integrado de asesoría patrimonial y financiera.
+| 
+| **Constará de 2 partes:**
+| 
+| **1. La primera parte:** Un examen tipo **test de 50 preguntas**. Para aprobar, el requisito será el haber respondido bien al menos al 70% del examen (35 preguntas). Las respuestas incorrectas o en blanco no restan puntos. **Duración de la primera prueba: 1 hora y 30 minutos.**
+| 
+| **2. La segunda parte:** Consistirá en la resolución de ejercicios prácticos sobre distintos aspectos contemplados en el temario EFA. **Duración de la segunda prueba: 1 hora.**
+| 
+| **Deben aprobarse ambas partes.**
+| 
+| **Derechos de examen: 290,40 € (IVA incluido)**
+| 
+| NOTA: La normativa fiscal se aplicará a la correspondiente del país que se realice el examen.
+
+### ***Estructura del examen para obtener el Nivel II***
+
+| 
+| **Constará de 2 partes:**
+| 
+| **1. La primera parte:** Un examen tipo **test de 40 preguntas**. Para aprobar, el requisito será el haber respondido bien al menos al 70% del examen (28 preguntas). Las respuestas incorrectas o en blanco no restan puntos. **Duración de la primera prueba: 1 hora y 30 minutos.**
+| 
+| **2. La segunda parte:** Consistirá en la resolución de ejercicios prácticos sobre distintos aspectos contemplados en el temario EFA. **Duración de la segunda prueba: 1 hora.**
+| 
+| **Deben aprobarse ambas partes.**
+| 
+| **Derechos de examen: 193,60 € (IVA incluido)**
+| 
+| NOTA: La normativa fiscal se aplicará a la correspondiente del país que se realice el examen. 
+
+### **¿C**ómo realizar la inscripción**?**
+
+| Acceder en: [**http://efpa.es/examenes**](http://efpa.es/examenes) **([Reglas Generales](https://www.efpa.es/documento/reglas_generales_examenes.pdf))**
+| 
+| - Rellenar los datos que aparecen en la parte de 'Nuevo registro'. (Si es la primera vez que se inscribe a través de la Web)
+| 
+| - Recibirá un email con el usuario/contraseña y un enlace para acceder a la inscripción.Acceder al enlace con el usuario/contraseña asignado.
+| 
+| - Inscribirse a un examen y rellenar los campos solicitados.Seleccionar el examen que desea realizar.Adjuntar CV (formato PDF.) y Titulación (Para las inscripciones al examen EFA o el Nivel II).
+| 
+| - Cumplimentar los datos de facturación.
+| 
+| - Realizar la transferencia mediante la pasarela TPV y clicar en 'Aceptar'.Recibirá un email de la convocatoria, con todos los datos de la inscripción.  
+|  
+| **REQUISITOS**
+| Disponer de:
+| 
+| **Titulación:** Educación secundaria post obligatoria (BUP, Bachillerato, FP) con la siguiente experiencia:  Se requiere 1 año de experiencia para poder obtener la certificación EFA, o bien, 6 meses, si el candidato ha realizado un curso de preparación en un centro acreditado
+| 
+| O bien,
+| 
+| **Titulación:** Educación Secundaria Obligatoria, con la siguiente experiencia: Se requieren 5 años de experiencia en el sector financiero.
+
+## Contenidos: módulos y su peso en el examen
+
+| **Módulo** | **Contenidos**                              | **Peso** | **Nº Preguntas** |
+|:-------------:|:--------------------------|:-------------:|:-------------:|
+|  Módulo 1  | Instrumentos y mercados financieros         |  25,00%  |      12/13       |
+|  Módulo 2  | Fondos y sociedades de inversión mobiliaria |  10,00%  |        5         |
+|  Módulo 3  | Gestión de carteras                         |  17,50%  |       8/9        |
+|  Módulo 4  | Seguros                                     |  7,50%   |       3/4        |
+|  Módulo 5  | Pensiones y planificación de jubilación     |  5,00%   |       2/3        |
+|  Módulo 6  | Inversión Inmobiliaria                      |  5,00%   |       2/3        |
+|  Módulo 7  | Credito y financiación                      |  5,00%   |       2/3        |
+|  Módulo 8  | Fiscalidad                                  |  10,00%  |        5         |
+|  Módulo 9  | Cumplimiento normativo y regulador          |  7,50%   |       3/4        |
+| Módulo 10  | Asesoramiento y planificación financiera    |  7,50%   |       3/4        |
+| **Total**: |                                             | **100%** |      **50**      |
