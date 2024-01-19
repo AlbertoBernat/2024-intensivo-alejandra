@@ -27,16 +27,16 @@ En cuanto a nuestras reuniones, inicialmente he programado las sesiones para los
 
 ### **Propuesta de las sesiones**
 
-| **Semana** | **Día**           | **Hora**      | **Sesión**                                               |
-|-----------|---------------------|---------------------|---------------------|
-| 1          | Jueves 25 enero   | 19:00 - 20:30 | Sesión 1: Instrumentos y mercados financieros            |
-| 2          | Jueves 1 febrero  | 19:00 - 20:30 | Sesión 2: Fondos y sociedades de inversión mobiliaria    |
-| 3          | Jueves 8 febrero  | 19:00 - 20:30 | Sesión 3: Gestión de carteras                            |
-| 4          | Jueves 15 febrero | 19:00 - 20:30 | Sesión 4: Pensiones y planificación de jubilación        |
-| 5          | Jueves 22 febrero | 19:00 - 20:30 | Sesión 5: Inversión inmobiliaria, crédito y financiación |
-| 6          | Jueves 29 febrero | 19:00 - 20:30 | Sesión 6: Fiscalidad I                                   |
-| 7          | Jueves 7 marzo    | 19:00 - 20:30 | Sesión 7: Fiscalidad II                                  |
-| 8          | Jueves 14 marzo   | 19:00 - 20:30 | Sesión 8: Examen final (corrección y dudas)              |
+| **Semana** | **Día**            | **Hora**      | **Sesión**                                               |
+|--------|---------------|--------------|------------------------------------|
+| 1          | Miércoles 24 enero | 19:00 - 20:30 | Sesión 1: Instrumentos y mercados financieros            |
+| 2          | Lunes 29 enero     | 19:00 - 20:30 | Sesión 2: Fondos y sociedades de inversión mobiliaria    |
+| 3          | Lunes 5 febrero    | 19:00 - 20:30 | Sesión 3: Gestión de carteras                            |
+| 4          | Lunes 12 febrero   | 19:00 - 20:30 | Sesión 4: Pensiones y planificación de jubilación        |
+| 5          | Lunes 19 febrero   | 19:00 - 20:30 | Sesión 5: Inversión inmobiliaria, crédito y financiación |
+| 6          | Lunes 26 febrero   | 19:00 - 20:30 | Sesión 6: Fiscalidad I                                   |
+| 7          | Lunes 5 marzo      | 19:00 - 20:30 | Sesión 7: Fiscalidad II                                  |
+| 8          | Lunes 12 marzo     | 19:00 - 20:30 | Sesión 8: Examen final (corrección y dudas)              |
 
 Si hay algún ajuste que necesites o alguna pregunta que desees plantear, no dudes en comunicármelo.
 
