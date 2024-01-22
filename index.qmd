@@ -28,15 +28,15 @@ En cuanto a nuestras reuniones, inicialmente he programado las sesiones para los
 ### **Propuesta de las sesiones**
 
 | **Semana** | **Día**            | **Hora**      | **Sesión**                                               |
-|--------|---------------|-------------|-------------------------------------|
+|--------------|--------------|--------------|-------------------------------|
 | 1          | Miércoles 24 enero | 20:00 - 21:30 | Sesión 1: Instrumentos y mercados financieros            |
 | 2          | Lunes 29 enero     | 20:00 - 21:30 | Sesión 2: Fondos y sociedades de inversión mobiliaria    |
 | 3          | Lunes 5 febrero    | 20:00 - 21:30 | Sesión 3: Gestión de carteras                            |
 | 4          | Lunes 12 febrero   | 20:00 - 21:30 | Sesión 4: Pensiones y planificación de jubilación        |
 | 5          | Lunes 19 febrero   | 20:00 - 21:30 | Sesión 5: Inversión inmobiliaria, crédito y financiación |
 | 6          | Lunes 26 febrero   | 20:00 - 21:30 | Sesión 6: Fiscalidad I                                   |
-| 7          | Lunes 5 marzo      | 20:00 - 21:30 | Sesión 7: Fiscalidad II                                  |
-| 8          | Lunes 12 marzo     | 20:00 - 21:30 | Sesión 8: Examen final (corrección y dudas)              |
+| 7          | Lunes 4 marzo      | 20:00 - 21:30 | Sesión 7: Fiscalidad II                                  |
+| 8          | Lunes 11 marzo     | 20:00 - 21:30 | Sesión 8: Examen final (corrección y dudas)              |
 
 Si hay algún ajuste que necesites o alguna pregunta que desees plantear, no dudes en comunicármelo.
 
@@ -46,13 +46,11 @@ Quiero proporcionarte información detallada sobre el proceso de pago para asegu
 
 Puedes realizar el pago mediante una transferencia bancaria a la siguiente cuenta:
 
-**Número de Cuenta:**
-ES69 0073 0100 5405 4843 6053
+**Número de Cuenta:** ES69 0073 0100 5405 4843 6053
 
 Si lo prefieres, también puedes efectuar el pago a través de Bizum utilizando mi número de teléfono:
 
-**Número de Teléfono:**
-63333 1677
+**Número de Teléfono:** 63333 1677
 
 Una vez que reciba la confirmación del pago, procederé a habilitar tu acceso a la plataforma de estudio y proporcionaré los materiales necesarios. Este acceso incluirá la corrección de tu prueba de nivel. Te recomendaría completar esta prueba a lo largo del fin de semana para que puedas comenzar con el programa a partir de la próxima semana. Esta prueba es tipo test y consta de 20 preguntas que te brindarán un punto de referencia inicial sin necesidad de ningún estudio previo por tu parte. Su duración es de 50 minutos.
 
@@ -82,7 +80,7 @@ Alberto
 | [Consulta las novedades fiscales para el Módulo de Fiscalidad](https://www.efpa.es/actualidad/14/noticias-efpa/3025/novedades-fiscales-exigibles-en-las-diferentes-certificaciones-de-efpa-espana-eip-efa-y-efp-a-partir-del-mes-de-junio-2023/)
 | [Normas e instrucciones para los exámenes OnLine](https://www.efpa.es/descargas/NormasExamenesOnLine.pdf)
 | [GUÍA DE CONTENIDOS](https://www.efpa.es/descargas/documentos/GUIA_DE_CERTIFICACION_EFA.pdf)
-|  
+| 
 | 
 
 [![](https://www.efpa.es/descargas/boton-videotutorial-examenesonline.jpg)](https://www.efpa.es/videotutorial-examen-online)
@@ -132,7 +130,7 @@ Alberto
 | - Cumplimentar los datos de facturación.
 | 
 | - Realizar la transferencia mediante la pasarela TPV y clicar en 'Aceptar'.Recibirá un email de la convocatoria, con todos los datos de la inscripción.  
-|  
+| 
 | **REQUISITOS**
 | Disponer de:
 | 
@@ -145,7 +143,7 @@ Alberto
 ## Contenidos: módulos y su peso en el examen
 
 | **Módulo** | **Contenidos**                              | **Peso** | **Nº Preguntas** |
-|:-------------:|:--------------------------|:-------------:|:-------------:|
+|:--------------:|:-----------------------|:--------------:|:--------------:|
 |  Módulo 1  | Instrumentos y mercados financieros         |  25,00%  |      12/13       |
 |  Módulo 2  | Fondos y sociedades de inversión mobiliaria |  10,00%  |        5         |
 |  Módulo 3  | Gestión de carteras                         |  17,50%  |       8/9        |
